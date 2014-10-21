@@ -1,0 +1,17 @@
+{
+  "name": "usco-testModels",
+  "version": "0.0.1",
+  "private": true,
+  "authors": [
+    "Mark Moissette <kaosat.dev@gmail.com>"
+  ],
+  "description": "Various 3d models in various formats, for testing purposes",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
